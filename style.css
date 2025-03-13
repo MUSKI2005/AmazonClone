@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    font-family:arial;
+    /* this means the border size which we are passing to an element should be counted in it's height & width */
+    border:border-box;
+}
+.navbar{
+    height:60px;
+    background-color:#1d2f41;
+    color:white;
+}
+.nav-logo{
+    height:50px;
+    width:100px;
+}
+.logo{
+    height:50px;
+    width:100%;
+    background-image:url("amazon-logo.webp");
+    background-size:cover;
+}
+.border{
+    border:2px solid transparent;
+}
+.border:hover{
+    border:1.5px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
